@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6C8A8BF9-B7F4-A082-F930-CB18C7760915}") = "Shipgame", "Assembly-CSharp-firstpass.csproj", "{78F4E2AB-5518-71F4-1DF1-4212206DAD56}"
+EndProject
+Project("{6C8A8BF9-B7F4-A082-F930-CB18C7760915}") = "Shipgame", "Assembly-CSharp.csproj", "{3DB97BE1-AC15-D7DD-1451-8657FE388893}"
+EndProject
+Project("{6C8A8BF9-B7F4-A082-F930-CB18C7760915}") = "Shipgame", "Assembly-CSharp-Editor.csproj", "{ED1B0DC5-EDC0-CB58-95DC-25226A3B13F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F4E2AB-5518-71F4-1DF1-4212206DAD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F4E2AB-5518-71F4-1DF1-4212206DAD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F4E2AB-5518-71F4-1DF1-4212206DAD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F4E2AB-5518-71F4-1DF1-4212206DAD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB97BE1-AC15-D7DD-1451-8657FE388893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB97BE1-AC15-D7DD-1451-8657FE388893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB97BE1-AC15-D7DD-1451-8657FE388893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB97BE1-AC15-D7DD-1451-8657FE388893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1B0DC5-EDC0-CB58-95DC-25226A3B13F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1B0DC5-EDC0-CB58-95DC-25226A3B13F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1B0DC5-EDC0-CB58-95DC-25226A3B13F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1B0DC5-EDC0-CB58-95DC-25226A3B13F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: c101596632ee84b5ebb8616c090f92c8
+timeCreated: 1456974360
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BigButtonLeft
+    100002: BigButtonRight
+    100004: DashButtons2
+    100006: //RootNode
+    100008: DashButtons2_001
+    100010: EscapeKey
+    100012: RightCluster
+    100014: RightThree
+    100016: Screen1
+    100018: Screen2
+    100020: Screen3
+    100022: Screen4
+    400000: BigButtonLeft
+    400002: BigButtonRight
+    400004: DashButtons2
+    400006: //RootNode
+    400008: DashButtons2_001
+    400010: EscapeKey
+    400012: RightCluster
+    400014: RightThree
+    400016: Screen1
+    400018: Screen2
+    400020: Screen3
+    400022: Screen4
+    2300000: BigButtonLeft
+    2300002: BigButtonRight
+    2300004: DashButtons2
+    2300006: DashButtons2_001
+    2300008: EscapeKey
+    2300010: RightCluster
+    2300012: RightThree
+    2300014: Screen1
+    2300016: Screen2
+    2300018: Screen3
+    2300020: Screen4
+    3300000: BigButtonLeft
+    3300002: BigButtonRight
+    3300004: DashButtons2
+    3300006: DashButtons2_001
+    3300008: EscapeKey
+    3300010: RightCluster
+    3300012: RightThree
+    3300014: Screen1
+    3300016: Screen2
+    3300018: Screen3
+    3300020: Screen4
+    4300000: RightThree
+    4300002: RightCluster
+    4300004: EscapeKey
+    4300006: BigButtonRight
+    4300008: BigButtonLeft
+    4300010: Screen4
+    4300012: Screen3
+    4300014: Screen2
+    4300016: Screen1
+    4300018: DashButtons2_001
+    4300020: DashButtons2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 0d4e5cceb36cf4334a37f038d36bf81a
+timeCreated: 1458862784
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bathroom
+    100002: Bathroom_Floor
+    100004: Bedroom
+    100006: Bedroom_Floor
+    100008: CenterRoom
+    100010: CenterRoom_001
+    100012: CenterRoom_Floor
+    100014: CenterRoom_Subfloor
+    100016: Engine_Inner
+    100018: Engine_Outer
+    100020: EngineRoom
+    100022: EngineRoom_Floor
+    100024: Exterior
+    100026: ExteriorRoof
+    100028: FrontRoom
+    100030: FrontRoom_Exterior
+    100032: FrontRoom_Floor
+    100034: InteriorRoof
+    100036: LeftHall
+    100038: LeftHall_Floor
+    100040: //RootNode
+    100042: RightHall
+    100044: RightHall_Floor
+    100046: Wings
+    400000: Bathroom
+    400002: Bathroom_Floor
+    400004: Bedroom
+    400006: Bedroom_Floor
+    400008: CenterRoom
+    400010: CenterRoom_001
+    400012: CenterRoom_Floor
+    400014: CenterRoom_Subfloor
+    400016: Engine_Inner
+    400018: Engine_Outer
+    400020: EngineRoom
+    400022: EngineRoom_Floor
+    400024: Exterior
+    400026: ExteriorRoof
+    400028: FrontRoom
+    400030: FrontRoom_Exterior
+    400032: FrontRoom_Floor
+    400034: InteriorRoof
+    400036: LeftHall
+    400038: LeftHall_Floor
+    400040: //RootNode
+    400042: RightHall
+    400044: RightHall_Floor
+    400046: Wings
+    2300000: Bathroom
+    2300002: Bathroom_Floor
+    2300004: Bedroom
+    2300006: Bedroom_Floor
+    2300008: CenterRoom
+    2300010: CenterRoom_001
+    2300012: CenterRoom_Floor
+    2300014: CenterRoom_Subfloor
+    2300016: Engine_Inner
+    2300018: Engine_Outer
+    2300020: EngineRoom
+    2300022: EngineRoom_Floor
+    2300024: Exterior
+    2300026: ExteriorRoof
+    2300028: FrontRoom
+    2300030: FrontRoom_Exterior
+    2300032: FrontRoom_Floor
+    2300034: InteriorRoof
+    2300036: LeftHall
+    2300038: LeftHall_Floor
+    2300040: RightHall
+    2300042: RightHall_Floor
+    2300044: Wings
+    3300000: Bathroom
+    3300002: Bathroom_Floor
+    3300004: Bedroom
+    3300006: Bedroom_Floor
+    3300008: CenterRoom
+    3300010: CenterRoom_001
+    3300012: CenterRoom_Floor
+    3300014: CenterRoom_Subfloor
+    3300016: Engine_Inner
+    3300018: Engine_Outer
+    3300020: EngineRoom
+    3300022: EngineRoom_Floor
+    3300024: Exterior
+    3300026: ExteriorRoof
+    3300028: FrontRoom
+    3300030: FrontRoom_Exterior
+    3300032: FrontRoom_Floor
+    3300034: InteriorRoof
+    3300036: LeftHall
+    3300038: LeftHall_Floor
+    3300040: RightHall
+    3300042: RightHall_Floor
+    3300044: Wings
+    4300000: FrontRoom_Exterior
+    4300002: RightHall
+    4300004: CenterRoom_Floor
+    4300006: CenterRoom
+    4300008: Wings
+    4300010: Engine_Inner
+    4300012: InteriorRoof
+    4300014: Exterior
+    4300016: EngineRoom_Floor
+    4300018: RightHall_Floor
+    4300020: Bedroom_Floor
+    4300022: Bathroom_Floor
+    4300024: LeftHall_Floor
+    4300026: CenterRoom_Subfloor
+    4300028: FrontRoom_Floor
+    4300030: Bedroom
+    4300032: ExteriorRoof
+    4300034: LeftHall
+    4300036: CenterRoom_001
+    4300038: Bathroom
+    4300040: EngineRoom
+    4300042: FrontRoom
+    4300044: Engine_Outer
+    6400000: Bathroom
+    6400002: Bathroom_Floor
+    6400004: Bedroom
+    6400006: Bedroom_Floor
+    6400008: CenterRoom
+    6400010: CenterRoom_001
+    6400012: CenterRoom_Floor
+    6400014: CenterRoom_Subfloor
+    6400016: Engine_Inner
+    6400018: Engine_Outer
+    6400020: EngineRoom
+    6400022: EngineRoom_Floor
+    6400024: Exterior
+    6400026: ExteriorRoof
+    6400028: FrontRoom
+    6400030: FrontRoom_Exterior
+    6400032: FrontRoom_Floor
+    6400034: InteriorRoof
+    6400036: LeftHall
+    6400038: LeftHall_Floor
+    6400040: RightHall
+    6400042: RightHall_Floor
+    6400044: Wings
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

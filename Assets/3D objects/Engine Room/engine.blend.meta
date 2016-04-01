@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: b1d91dde18545444c9cf3af11fada86d
+timeCreated: 1457881453
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BigSphere
+    100002: body
+    100004: //RootNode
+    100006: glass
+    100008: Handle
+    100010: keyboard
+    100012: LittleSphere
+    100014: Plates
+    100016: screen
+    100018: Switch_bars
+    100020: Switch_base
+    100022: Wires
+    400000: BigSphere
+    400002: body
+    400004: //RootNode
+    400006: glass
+    400008: Handle
+    400010: keyboard
+    400012: LittleSphere
+    400014: Plates
+    400016: screen
+    400018: Switch_bars
+    400020: Switch_base
+    400022: Wires
+    2300000: BigSphere
+    2300002: body
+    2300004: glass
+    2300006: Handle
+    2300008: keyboard
+    2300010: LittleSphere
+    2300012: Plates
+    2300014: screen
+    2300016: Switch_bars
+    2300018: Switch_base
+    2300020: Wires
+    3300000: BigSphere
+    3300002: body
+    3300004: glass
+    3300006: Handle
+    3300008: keyboard
+    3300010: LittleSphere
+    3300012: Plates
+    3300014: screen
+    3300016: Switch_bars
+    3300018: Switch_base
+    3300020: Wires
+    4300000: LittleSphere
+    4300002: Wires
+    4300004: Plates
+    4300006: Switch_base
+    4300008: Handle
+    4300010: Switch_bars
+    4300012: screen
+    4300014: keyboard
+    4300016: body
+    4300018: glass
+    4300020: BigSphere
+    6400000: BigSphere
+    6400002: body
+    6400004: glass
+    6400006: Handle
+    6400008: keyboard
+    6400010: LittleSphere
+    6400012: Plates
+    6400014: screen
+    6400016: Switch_bars
+    6400018: Switch_base
+    6400020: Wires
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

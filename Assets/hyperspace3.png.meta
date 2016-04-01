@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: b82f1790ed17e4204871d8c76ea09c42
+timeCreated: 1458790645
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hyperspace3_0
+    21300002: hyperspace3_1
+    21300004: hyperspace3_2
+    21300006: hyperspace3_3
+    21300008: hyperspace3_4
+    21300010: hyperspace3_5
+    21300012: hyperspace3_6
+    21300014: hyperspace3_7
+    21300016: hyperspace3_8
+    21300018: hyperspace3_9
+    21300020: hyperspace3_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hyperspace3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 52.5}
+        - {x: -93.5, y: -52.5}
+        - {x: 93.5, y: -52.5}
+        - {x: 93.5, y: 52.5}
+    - name: hyperspace3_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.31818, y: 52.5}
+        - {x: -93.31818, y: -52.5}
+        - {x: 93.68182, y: -52.5}
+        - {x: 93.68182, y: 52.5}
+    - name: hyperspace3_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.13635, y: 52.5}
+        - {x: -93.13635, y: -52.5}
+        - {x: 93.86365, y: -52.5}
+        - {x: 93.86365, y: 52.5}
+    - name: hyperspace3_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.95453, y: 52.5}
+        - {x: -92.95453, y: -52.5}
+        - {x: 94.04547, y: -52.5}
+        - {x: 94.04547, y: 52.5}
+    - name: hyperspace3_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.772705, y: 52.5}
+        - {x: -92.772705, y: -52.5}
+        - {x: 94.227295, y: -52.5}
+        - {x: 94.227295, y: 52.5}
+    - name: hyperspace3_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.09088, y: 52.5}
+        - {x: -93.09088, y: -52.5}
+        - {x: 94.90912, y: -52.5}
+        - {x: 94.90912, y: 52.5}
+    - name: hyperspace3_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.40906, y: 52.5}
+        - {x: -93.40906, y: -52.5}
+        - {x: 93.59094, y: -52.5}
+        - {x: 93.59094, y: 52.5}
+    - name: hyperspace3_7
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.227295, y: 52.5}
+        - {x: -93.227295, y: -52.5}
+        - {x: 93.772705, y: -52.5}
+        - {x: 93.772705, y: 52.5}
+    - name: hyperspace3_8
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.04541, y: 52.5}
+        - {x: -93.04541, y: -52.5}
+        - {x: 93.95459, y: -52.5}
+        - {x: 93.95459, y: 52.5}
+    - name: hyperspace3_9
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.86365, y: 52.5}
+        - {x: -92.86365, y: -52.5}
+        - {x: 94.13635, y: -52.5}
+        - {x: 94.13635, y: 52.5}
+    - name: hyperspace3_10
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.68176, y: 52.5}
+        - {x: -92.68176, y: -52.5}
+        - {x: 94.31824, y: -52.5}
+        - {x: 94.31824, y: 52.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

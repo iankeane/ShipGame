@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 73b3855b167ff40169e2dc879209e225
+timeCreated: 1456974358
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CenterConsole
+    100002: //RootNode
+    100004: Checkerboard
+    100006: Joystick_Alcove
+    100008: Joystick_base
+    100010: Joystick_handle
+    100012: Joystick_shock
+    100014: Mainscreen_edge
+    100016: MainScreen_Screen
+    100018: SliderPanelEdge
+    100020: Sliders
+    100022: SliderTops
+    400000: CenterConsole
+    400002: //RootNode
+    400004: Checkerboard
+    400006: Joystick_Alcove
+    400008: Joystick_base
+    400010: Joystick_handle
+    400012: Joystick_shock
+    400014: Mainscreen_edge
+    400016: MainScreen_Screen
+    400018: SliderPanelEdge
+    400020: Sliders
+    400022: SliderTops
+    2300000: CenterConsole
+    2300002: Checkerboard
+    2300004: Joystick_Alcove
+    2300006: Joystick_base
+    2300008: Joystick_handle
+    2300010: Joystick_shock
+    2300012: Mainscreen_edge
+    2300014: MainScreen_Screen
+    2300016: SliderPanelEdge
+    2300018: Sliders
+    2300020: SliderTops
+    3300000: CenterConsole
+    3300002: Checkerboard
+    3300004: Joystick_Alcove
+    3300006: Joystick_base
+    3300008: Joystick_handle
+    3300010: Joystick_shock
+    3300012: Mainscreen_edge
+    3300014: MainScreen_Screen
+    3300016: SliderPanelEdge
+    3300018: Sliders
+    3300020: SliderTops
+    4300000: MainScreen_Screen
+    4300002: Joystick_Alcove
+    4300004: Checkerboard
+    4300006: SliderTops
+    4300008: Sliders
+    4300010: SliderPanelEdge
+    4300012: Joystick_shock
+    4300014: Joystick_base
+    4300016: Mainscreen_edge
+    4300018: Joystick_handle
+    4300020: CenterConsole
+    6400000: CenterConsole
+    6400002: Checkerboard
+    6400004: Joystick_Alcove
+    6400006: Joystick_base
+    6400008: Joystick_handle
+    6400010: Joystick_shock
+    6400012: Mainscreen_edge
+    6400014: MainScreen_Screen
+    6400016: SliderPanelEdge
+    6400018: Sliders
+    6400020: SliderTops
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
